@@ -1,4 +1,3 @@
-# airport-end-point
 Endpoint URLs:
     http://localhost:8000
     http://localhost:8000/search_name?name=name
